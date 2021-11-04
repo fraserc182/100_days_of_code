@@ -1,3 +1,3 @@
 # 100_days_of_code
 
-Udemy 100 days of code course
+Repo for each day of the 100 days of code course - https://www.udemy.com/course/100-days-of-code/
